@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FnaPwlJDV8Z4fXYzdKYulhENy0ZByXsH4WLTSpCZumcz+91AZ/okDnRLqIoB6zWvLxKryuJkTH8yz5CEwcStyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adnan\\Dev\\GitRepo\\Others\\GiveMeWords\\Server\\Server.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adnan\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512",
+    "C:\\Users\\adnan\\.nuget\\packages\\fsharp.json\\0.4.1\\fsharp.json.0.4.1.nupkg.sha512",
+    "C:\\Users\\adnan\\.nuget\\packages\\suave\\2.6.2\\suave.2.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}

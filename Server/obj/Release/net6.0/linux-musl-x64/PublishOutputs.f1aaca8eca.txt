@@ -1,0 +1,5 @@
+C:\Users\adnan\Dev\GitRepo\Others\GiveMeWords\Server\out\Server.pdb
+C:\Users\adnan\Dev\GitRepo\Others\GiveMeWords\Server\out\public\app.js
+C:\Users\adnan\Dev\GitRepo\Others\GiveMeWords\Server\out\public\index.html
+C:\Users\adnan\Dev\GitRepo\Others\GiveMeWords\Server\out\words.txt
+C:\Users\adnan\Dev\GitRepo\Others\GiveMeWords\Server\out\Server
